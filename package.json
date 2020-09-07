@@ -1,5 +1,5 @@
 {
-  "name": "photography.ericirish.com",
+  "name": "base-pug-cli",
   "version": "0.0.01",
   "main": "index.js",
   "scripts": {
